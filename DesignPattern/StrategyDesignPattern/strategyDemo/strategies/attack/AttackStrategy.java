@@ -1,0 +1,5 @@
+package DesignPatterns.StrategyDesignPattern.strategyDemo.strategies.attack;
+
+public interface AttackStrategy {
+    void attack();
+}
